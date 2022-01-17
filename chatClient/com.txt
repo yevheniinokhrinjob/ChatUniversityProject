@@ -1,0 +1,6 @@
+cd C:\Programing\Java\GamesJava\myChat\chatServer
+
+cd C:\Programing\Java\GamesJava\myChat\chatClient
+
+
+java -jar target/chatclient-0.0.1-SNAPSHOT.jar
